@@ -1,0 +1,16 @@
+*** 1 Mållös streak ***
+En Monte-Carlo-simulering för att ta reda på sannolikheten att en bra hockeyspelare har mållösa streaker av en viss längd under en säsong.
+
+
+*** 2 Numbers game ***
+Bygg detta:
+
+Jag datorn tänker på ett heltal mellan 1 och 100. Vad gissar du?
+78
+Nix, lägre
+23
+Nix, högre
+55
+RÄTT! Du klarade spelet på 3 gissningar.
+
+*** 3 Square root ***
