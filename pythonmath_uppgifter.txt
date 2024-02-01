@@ -14,3 +14,19 @@ Nix, högre
 RÄTT! Du klarade spelet på 3 gissningar.
 
 *** 3 Square root ***
+Write and test this function
+
+def square_root(a, epsilon):
+    """
+    Calculates square root b of a so that b*b is within epsilon from a.
+ 
+    Args:
+        a (float): Number to take root of
+        epsilon (float): The margin of error
+ 
+    Returns:
+        int: The square root of a
+    """
+
+Advice: Use "bisection search"
+
