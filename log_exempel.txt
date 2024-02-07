@@ -1,0 +1,13 @@
+projektnamn
+Github: github.com/legymen/projektnamn
+
+Mål: Skapa en app som hjälper mig att träna på glosor.
+
+Vecka 5
+Tränat på att göra olika formulär i processing.
+
+Vecka 6
+Byggt gränssnittet.
+
+Vecka 7
+Sjuk
