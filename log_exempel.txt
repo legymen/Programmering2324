@@ -1,4 +1,4 @@
-projektnamn
+projektnamn TEST
 Github: github.com/legymen/projektnamn
 
 Mål: Skapa en app som hjälper mig att träna på glosor.
