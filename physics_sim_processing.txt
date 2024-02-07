@@ -1,0 +1,9 @@
+*** Uppgift 1 ***
+Gör studsande bollar objektorienterat. De ska ha pos, vel, acc och totalforce som vektorer.
+Lägg på gravitationskraft och vind.
+
+*** Uppgift 2 ***
+Låt bollarna krocka och bevara rörelsemängden vid krocken.
+
+*** Uppgift 3 ***
+Gör bollarna i en Arraylist så det går att ha många.
