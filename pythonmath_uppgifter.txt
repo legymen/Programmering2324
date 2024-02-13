@@ -13,7 +13,10 @@ Nix, högre
 55
 RÄTT! Du klarade spelet på 3 gissningar.
 
-*** 3 Square root ***
+*** 3 Numbers game reversed ***
+Vänd nu på programmet så att datorn ska gissa och lösa problemet så snabbt som möjligt.
+
+*** 4 Square root ***
 Write and test this function
 
 def square_root(a, epsilon):
